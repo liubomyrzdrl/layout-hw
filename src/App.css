@@ -27,6 +27,7 @@ body {
 .layout-col3 {
   grid-template-columns: repeat(3, 1fr);
 }
+
 .layout-col1 {
   grid-template-columns: repeat(1, 1fr);
 }
